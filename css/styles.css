@@ -1,0 +1,140 @@
+.about-me {
+  line-height: 1.5;
+  margin-bottom: 100px;
+  margin-left: 28%;
+  margin-right: 28%;
+}
+.bottom-container {
+  background-color: #4D2748;
+  padding: 20px 0;
+  position: relative;
+}
+.btn {
+  background: #ffb2b2;
+  background-image: -webkit-linear-gradient(top, #ffb2b2, #ff8fb1);
+  background-image: -moz-linear-gradient(top, #ffb2b2, #ff8fb1);
+  background-image: -ms-linear-gradient(top, #ffb2b2, #ff8fb1);
+  background-image: -o-linear-gradient(top, #ffb2b2, #ff8fb1);
+  background-image: linear-gradient(to bottom, #ffb2b2, #ff8fb1);
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 20px;
+  line-height: 5;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #ffabc6;
+  background-image: -webkit-linear-gradient(top, #ffabc6, #d1abf5);
+  background-image: -moz-linear-gradient(top, #ffabc6, #d1abf5);
+  background-image: -ms-linear-gradient(top, #ffabc6, #d1abf5);
+  background-image: -o-linear-gradient(top, #ffabc6, #d1abf5);
+  background-image: linear-gradient(to bottom, #ffabc6, #d1abf5);
+  text-decoration: none;
+}
+.cloud-left {
+  position: absolute;
+  left: 15%;
+  top: 10%;
+}
+.cloud-right {
+  position: absolute;
+  right: 15%;
+  top: 30%;
+}
+.contact-header {
+  padding-top: 20px;
+}
+.contact-me {
+  line-height: 1.5;
+  margin: 0 25% 0 25%;
+}
+.credits {
+  color: white;
+  margin-bottom: 0;
+  padding: 10px 0 0 0;
+}
+.favorite-color {
+  color: #FF7396;
+  font-weight: bold;
+}
+.footer-link {
+  margin: auto 3% auto 3%;
+}
+.footer-link:visited {
+  color: #FF7396;
+}
+.footer-link:hover {
+  color: white;
+}
+.middle-container {
+  padding-bottom: 50px;
+  position: relative;
+}
+.mountain {
+  padding-top: 170px;
+  width: 100%;
+}
+.profile {
+  position: relative;
+}
+.profile-photo {
+  width: 200px;
+}
+.skill-1-photo {
+  float: left;
+  margin-right: 5%;
+  width: 25%;
+}
+.skill-1-text {
+  padding-top: 10px;
+}
+.skill-2-photo {
+  float: right;
+  margin-left: 5%;
+  width: 25%;
+}
+.skill-2-text {
+  padding-top: 0.5px;
+}
+.skill-row {
+  line-height: 1.5;
+  margin: 10px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+.skills {
+position: relative;
+}
+.top-container {
+  background-color: #F2D1D1;
+  background-image: url(../images/starrysky01.gif);
+  background-repeat: repeat;
+  position: relative;
+}
+.what-am-i {
+  color: #B270A2;
+}
+a {
+  color: #B270A2;
+}
+body {
+  background-color: #F2D1D1;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  color: #FF8FB1;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  margin: 0;
+  padding-top: 160px;
+}
+h2 {
+  color: #FF8FB1;
+}
+h3 {
+  color: #B270A2;
+}
